@@ -2,7 +2,7 @@
  //Single Page PHP Function
 // Bc.Vc Decoder  v0.1 
 // Autor By LaZEnEs
-
+//E-Mail:lazenes@gmail.com
   function deCode($url) {
         $ch = curl_init();  
         curl_setopt($ch, CURLOPT_URL, $url);  
